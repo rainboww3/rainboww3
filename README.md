@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="mailto:rainboww319@gmail.com"><img src="https://img.shields.io/badge/rainboww3-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rainboww319@gmail.com"/></a>
+<a href="mailto:rainboww319@gmail.com"><img src="https://img.shields.io/badge/rainboww319-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rainboww319@gmail.com"/></a>
 
 ⚡ I'm a 3rd year computer engineering student from the University of Hong Kong.
 
