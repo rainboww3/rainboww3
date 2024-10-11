@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://rainboww3.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-428813?style=&logo=GitHub Pages&logoColor=black"/></a>
 <a href="mailto:rainboww319@gmail.com"><img src="https://img.shields.io/badge/rainboww319-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rainboww319@gmail.com"/></a>
 
-⚡ I'm a 3rd year computer engineering student from the University of Hong Kong.
+⚡ I'm a 4th year Computer Engineering student from the University of Hong Kong.
 
 😄 I'm mainly interested in **Frontend web developing**.
 
