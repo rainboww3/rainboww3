@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 😄 I'm mainly interested in **Frontend web developing**.
 
 🌱 I’m currently learning **Java**.
+
+Contact: rainboww3@naver.com
