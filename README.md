@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning **Java**.
 
-Contact: rainboww3@naver.com
+Contact: rainboww319@gmail.com / rainboww3@naver.com
